@@ -3,7 +3,7 @@ This is a repository for GPU programming in Cuda including **addition** and **do
 
 To compile the code:
 
-```ruby
+```
 nvcc <filename>.cu
 ```
 
