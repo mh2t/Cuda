@@ -1,8 +1,9 @@
-#### Cuda Programming in C
+# Cuda Programming in C
 This is a repository for GPU programming in Cuda including **addition** and **dotproduct** operations on a *square* and *non square Matrix*.
 
 To compile the code:
-```
+
+```ruby
 nvcc <filename>.cu
 ```
 
