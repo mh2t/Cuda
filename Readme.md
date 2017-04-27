@@ -1,21 +1,17 @@
 # Cuda Programming in C
+Cuda language is one of the powerful platforms for Parallel Programming. 
 This is a repository for GPU programming in Cuda including **addition** and **dotproduct** operations on a *square* and *non square Matrix*.
 
-To compile the code:
+To **compile**:
 
 ```
 nvcc <filename>.cu
 ```
 
-Homework 7:
-Mohammadhossein Toutiaee
-hossein@uga.edu
+To **run**:
 
-To compile the code:
-
-nvcc <filename>.cu
-
-To run:
-
+```
 ./a.out
+```
+
 
